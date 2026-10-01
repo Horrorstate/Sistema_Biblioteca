@@ -1,5 +1,5 @@
 import { useState } from "react";
-import libros from "../assets/libros.json";
+import libros from "../assets/Libros.json";
 
 import LibroDestacado from "./libroDestacado";
 import Categorias, { categorias } from "./categorias";

@@ -1,16 +1,51 @@
-# React + Vite
+# Sistema Biblioteca
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Aplicación web para consultar el catálogo de una biblioteca y solicitar libros en préstamo. Está hecha con React y Tailwind CSS.
 
-Currently, two official plugins are available:
+Como es una biblioteca, los libros no se compran: se **solicitan**. Cada libro se añade a una cesta y al final se confirma la solicitud, sin ningún costo.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Funcionalidades
 
-## React Compiler
+- **Libros destacados:** carrusel con flechas y puntos indicadores para recorrer los libros seleccionados.
+- **Catálogo:** cuadrícula responsive con las portadas, el autor, el género y el año de cada libro.
+- **Filtro por categorías:** cada categoría funciona como una palabra clave, así que "Ciencia Ficción" también muestra "Ciencia ficción gótica" y "Distopía" también muestra "Ficción distópica".
+- **Buscador:** filtra en vivo por título o autor, y se combina con la categoría seleccionada.
+- **Cesta de solicitudes:** ventana desplegable bajo el icono de la cesta, con contador, opción de quitar libros y botón para confirmar. Se cierra al hacer clic fuera o con la tecla Escape.
+- **Estado de cada libro:** los botones cambian a "En tu cesta ✓" cuando el libro ya fue solicitado, para evitar duplicados.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tecnologías
 
-## Expanding the Oxlint configuration
+- [React]
+- [Tailwind CSS]
+- [Vite]
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+
+## Cómo funciona
+
+El estado compartido (`busqueda` y `cesta`) vive en `App`. Los componentes hijos reciben datos y funciones por props:
+
+- Los datos bajan: `busqueda`, `idsEnCesta`, `libro`.
+- Los eventos suben: `onSolicitar`, `onQuitar`, `onConfirmar`, `setBusqueda`.
+
+Para agregar un libro al catálogo, basta con añadir un objeto a `src/assets/libros.json`:
+
+```json
+{
+  "id": 31,
+  "titulo": "Título del libro",
+  "autor": "Nombre del autor",
+  "anio": 2020,
+  "genero": "Fantasía",
+  "paginas": 300,
+  "portada": "https://...",
+  "sinopsis": "Descripción opcional."
+}
+```
+
+
+## Despliegue
+Utilizando Vercel.app
+
+## Autor
+
+Proyecto desarrollado por Nicolás [Horrorstate].

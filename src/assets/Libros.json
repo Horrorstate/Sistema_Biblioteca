@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "anio": 1949,
+    "genero": "Distopía",
+    "paginas": 328,
+    "portada": "https://th.bing.com/th/id/R.7e3dd778374ed410cb3d51f4c2e73b5b?rik=nufI0SaglSLNiQ&riu=http%3a%2f%2f4.bp.blogspot.com%2f-z7Vcrt1-9wI%2fVeMsp_mTtAI%2fAAAAAAAAEzc%2fmCf9J5GKQt4%2fs1600%2f1984_poster.jpg&ehk=um5wp6OZjbIkNBdu76IVe06Nsyn3%2bTHU7JTecW98CF0%3d&risl=&pid=ImgRaw&r=0",
+    "sinopsis": "En una sociedad distópica bajo el control sofocante del Gran Hermano, Winston Smith lucha por mantener su individualidad y pensamiento crítico en un mundo donde la verdad es manipulada y el amor está prohibido."
+  },
+  {
+    "id": 2,
+    "titulo": "Cien años de soledad",
+    "autor": "Gabriel García Márquez",
+    "anio": 1967,
+    "genero": "Realismo mágico",
+    "paginas": 417,
+    "portada": "https://tse4.mm.bing.net/th/id/OIP.wSKlwjdlc--DoQA-LjxcrgHaLa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "sinopsis": "Cien años de soledad cuenta la historia de la familia Buendía a lo largo de varias generaciones en el pueblo ficticio de Macondo, marcado por el amor, la soledad, las guerras y hechos extraordinarios."
+  },
+  {
+    "id": 3,
+    "titulo": "Crimen y castigo",
+    "autor": "Fyodor Dostoevsky",
+    "anio": 1866,
+    "genero": "Novela psicológica",
+    "paginas": 671,
+    "portada": "https://m.media-amazon.com/images/I/81jCakgXfeL.jpg",
+    "sinopsis": "Crimen y castigo cuenta la historia de Raskólnikov, un joven que comete un asesinato creyendo que tiene razones para hacerlo, pero luego es atormentado por la culpa y las consecuencias de su crimen."
+  },
+  {
+    "id": 4,
+    "titulo": "Don Quijote de la Mancha",
+    "autor": "Miguel de Cervantes",
+    "anio": 1605,
+    "genero": "Clásico",
+    "paginas": 863,
+    "portada": "https://i.pinimg.com/originals/b5/0f/9c/b50f9c7c4969883cfa1dfe5a80763529.jpg"
+  },
+  {
+    "id": 5,
+    "titulo": "Dune",
+    "autor": "Frank Herbert",
+    "anio": 1965,
+    "genero": "Ciencia ficción",
+    "paginas": 688,
+    "portada": "https://m.media-amazon.com/images/I/913padSawdL.jpg",
+    "sinopsis": "Dune cuenta la historia de Paul Atreides, un joven que llega al planeta Arrakis, donde su familia debe enfrentar conflictos políticos, traiciones y una lucha por el control de un recurso muy valioso."
+  },
+  {
+    "id": 6,
+    "titulo": "El alquimista",
+    "autor": "Paulo Coelho",
+    "anio": 1988,
+    "genero": "Ficción filosófica",
+    "paginas": 208,
+    "portada": "https://tse4.mm.bing.net/th/id/OIP.URag39DLvIHaJg48gTbLhAHaLH?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 7,
+    "titulo": "El gran Gatsby",
+    "autor": "F. Scott Fitzgerald",
+    "anio": 1925,
+    "genero": "Ficción literaria",
+    "paginas": 180,
+    "portada": "https://tse2.mm.bing.net/th/id/OIP.m1GSAW7E41_URo9sgJL3DgHaMl?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 8,
+    "titulo": "El hobbit",
+    "autor": "J.R.R. Tolkien",
+    "anio": 1937,
+    "genero": "Fantasía",
+    "paginas": 310,
+    "portada": "https://www.elfenomeno.com/imag/117_imageneslibros/Portada_de_El_Hobbit_67629ab3c42a2.jpg"
+  },
+  {
+    "id": 9,
+    "titulo": "El nombre de la rosa",
+    "autor": "Umberto Eco",
+    "anio": 1980,
+    "genero": "Misterio histórico",
+    "paginas": 512,
+    "portada": "https://es.readanybook.com/cover/el-nombre-de-la-rosa-41538.jpg/"
+  },
+  {
+    "id": 10,
+    "titulo": "El principito",
+    "autor": "Antoine de Saint-Exupéry",
+    "anio": 1943,
+    "genero": "Fábula",
+    "paginas": 96,
+    "portada": "https://tse3.mm.bing.net/th/id/OIP.4jjqK8r4niDGIu1EzysUaAHaL8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 11,
+    "titulo": "El resplandor",
+    "autor": "Stephen King",
+    "anio": 1977,
+    "genero": "Terror",
+    "paginas": 447,
+    "portada": "https://tse1.mm.bing.net/th/id/OIP.zV3c3VtJycU8YH7Ap5ieywHaLQ?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 12,
+    "titulo": "El retrato de Dorian Gray",
+    "autor": "Oscar Wilde",
+    "anio": 1890,
+    "genero": "Terror gótico",
+    "paginas": 254,
+    "portada": "https://4.bp.blogspot.com/-tButKZcLu10/VT0i9_XQ-3I/AAAAAAAAAsA/Xfws-uTjCaQ/s1600/1.jpg"
+  },
+  {
+    "id": 13,
+    "titulo": "El señor de los anillos",
+    "autor": "J.R.R. Tolkien",
+    "anio": 1954,
+    "genero": "Fantasía épica",
+    "paginas": 1208,
+    "portada": "https://tse2.mm.bing.net/th/id/OIP.Zh3rrG2FMZIMP93sGVPIFgHaLU?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 14,
+    "titulo": "Ensayo sobre la ceguera",
+    "autor": "José Saramago",
+    "anio": 1995,
+    "genero": "Ficción filosófica",
+    "paginas": 326,
+    "portada": "https://tse2.mm.bing.net/th/id/OIP.jXVPJLpgBfZpXoUh5MRFdwHaKm?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 15,
+    "titulo": "Fahrenheit 451",
+    "autor": "Ray Bradbury",
+    "anio": 1953,
+    "genero": "Ciencia ficción",
+    "paginas": 249,
+    "portada": "https://tse1.mm.bing.net/th/id/OIP.ZgNTZBy5J4ZdJg0VDyMbrwHaLZ?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 16,
+    "titulo": "Ficciones",
+    "autor": "Jorge Luis Borges",
+    "anio": 1944,
+    "genero": "Cuentos",
+    "paginas": 174,
+    "portada": "https://m.media-amazon.com/images/I/71oo7r184yL._SL1500_.jpg"
+  },
+  {
+    "id": 17,
+    "titulo": "Frankenstein",
+    "autor": "Mary Shelley",
+    "anio": 1818,
+    "genero": "Ciencia ficción gótica",
+    "paginas": 280,
+    "portada": "https://tse3.mm.bing.net/th/id/OIP.-jVAO3JZ3JMFD6ZC3jZ8UgHaLG?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 18,
+    "titulo": "Fundación",
+    "autor": "Isaac Asimov",
+    "anio": 1951,
+    "genero": "Ciencia ficción",
+    "paginas": 255,
+    "portada": "https://tse3.mm.bing.net/th/id/OIP.u9nzUBmwCx63tR96jUPmIAHaLC?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 19,
+    "titulo": "La casa de los espíritus",
+    "autor": "Isabel Allende",
+    "anio": 1982,
+    "genero": "Ficción literaria",
+    "paginas": 496,
+    "portada": "https://m.media-amazon.com/images/I/51MTosNTgQL.jpg"
+  },
+  {
+    "id": 20,
+    "titulo": "La metamorfosis",
+    "autor": "Franz Kafka",
+    "anio": 1915,
+    "genero": "Ficción absurda",
+    "paginas": 100,
+    "portada": "https://tse4.mm.bing.net/th/id/OIP.S5e7j-pPk5BIcuwIavFnQwHaLe?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "sinopsis": "La metamorfosis cuenta la historia de Gregor Samsa, un joven que un día despierta convertido en un enorme insecto, enfrentándose al rechazo y al abandono de su propia familia."
+  },
+  {
+    "id": 21,
+    "titulo": "La sombra del viento",
+    "autor": "Carlos Ruiz Zafón",
+    "anio": 2001,
+    "genero": "Misterio",
+    "paginas": 565,
+    "portada": "https://tse1.mm.bing.net/th/id/OIP.3C5RMgajrMcjhhUJBQOvawHaLV?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 22,
+    "titulo": "La tía Julia y el escribidor",
+    "autor": "Mario Vargas Llosa",
+    "anio": 1977,
+    "genero": "Ficción semiautobiográfica",
+    "paginas": 448,
+    "portada": "https://iberoperu.vtexassets.com/arquivos/ids/287138-800-1133?v=638379147866270000&width=800&height=1133&aspect=true"
+  },
+  {
+    "id": 23,
+    "titulo": "Los detectives salvajes",
+    "autor": "Roberto Bolaño",
+    "anio": 1998,
+    "genero": "Novela contemporánea",
+    "paginas": 609,
+    "portada": "https://tse1.mm.bing.net/th/id/OIP.DxLDq262K-3UwcWXFimI0gHaLU?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 24,
+    "titulo": "Los miserables",
+    "autor": "Victor Hugo",
+    "anio": 1862,
+    "genero": "Novela histórica",
+    "paginas": 1463,
+    "portada": "https://tse1.mm.bing.net/th/id/OIP.v9Wrm2wptw-1Ws9ezKMeIwHaLW?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 25,
+    "titulo": "Metro 2033",
+    "autor": "Dmitri Glujovski",
+    "anio": 2005,
+    "genero": "Ficción distópica",
+    "paginas": 288,
+    "portada": "https://th.bing.com/th/id/OIP.C_G93sj8hYl5mEoSPyPYegAAAA?w=186&h=286&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3",
+    "sinopsis": "Metro 2033 sigue a Artyom, un joven que vive en el metro de Moscú tras una guerra nuclear y debe atravesar sus peligrosas estaciones para advertir a los demás sobre una misteriosa amenaza."
+  },
+  {
+    "id": 26,
+    "titulo": "Orgullo y prejuicio",
+    "autor": "Jane Austen",
+    "anio": 1813,
+    "genero": "Novela romántica",
+    "paginas": 432,
+    "portada": "https://th.bing.com/th/id/OIP.17fuccisPdTvLIHxK2hcPgHaLU?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 27,
+    "titulo": "Pedro Páramo",
+    "autor": "Juan Rulfo",
+    "anio": 1955,
+    "genero": "Realismo mágico",
+    "paginas": 128,
+    "portada": "https://tse4.mm.bing.net/th/id/OIP.VBHCBXGRzygsWj0SMKftHgHaKA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 28,
+    "titulo": "Rayuela",
+    "autor": "Julio Cortázar",
+    "anio": 1963,
+    "genero": "Ficción experimental",
+    "paginas": 600,
+    "portada": "https://tse3.mm.bing.net/th/id/OIP.2IzgD2KJ393CcvSc4v-1sAHaLC?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 29,
+    "titulo": "Rebelión en la granja",
+    "autor": "George Orwell",
+    "anio": 1945,
+    "genero": "Sátira política",
+    "paginas": 140,
+    "portada": "https://tse1.mm.bing.net/th/id/OIP.VGXkYl3QOOYK8rXAFchrSAHaLR?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 30,
+    "titulo": "Sapiens: De animales a dioses",
+    "autor": "Yuval Noah Harari",
+    "anio": 2011,
+    "genero": "Divulgación histórica",
+    "paginas": 496,
+    "portada": "https://imagessl2.casadellibro.com/a/l/t0/12/9788499924212.jpg"
+  },
+  {
+    "id": 31,
+    "titulo": "Un mundo feliz",
+    "autor": "Aldous Huxley",
+    "anio": 1932,
+    "genero": "Distopía",
+    "paginas": 288,
+    "portada": "https://th.bing.com/th/id/OIP.ul4l_qksux6G5Q0m8CW5dgHaLF?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+  }
+]
